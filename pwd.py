@@ -11,3 +11,5 @@ for char in password:
     if char >= "A" and char <= "Z":
         upper = True
 
+    if char >= "a" and char <= "z":
+        lower = True
